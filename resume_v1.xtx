@@ -65,7 +65,7 @@
 %     TITLE NAME
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{Zackary N.}{Scholl}{ \urlstyle{same}\href{http://zackaryscholl.com/}{zackaryscholl.com}| \\
+\namesection{Zackary N.}{Scholl}{ \urlstyle{same}\href{http://zackaryscholl.com/}{zackaryscholl.com} |
 \href{mailto:zns@duke.edu}{zns@duke.edu} | 919.660.5474 
 }
 
@@ -93,11 +93,9 @@ Thesis: Biophysics of proteins and nucleic acids studied by experiment and simul
 \location{June 2010 | Seattle, WA}
 \descript{BS in Physics}
 Graduated with Honors \\
-\location{GPA: 3.83 / 4.0}
 \sectionsep
 
 \descript{BS in Applied Computational Mathematics}
-\location{ GPA: 3.9 / 4.0}
 \sectionsep
 
 
@@ -107,15 +105,18 @@ Graduated with Honors \\
 
 \section{Coursework}
 \subsection{Graduate}
-Machine Learning \\
-Statistical Mechancis \\
+Algorithms \\
+Protein design \\
+Statistical Mechanics \\
 Biochemistry \\
+Crystallography \\
 \sectionsep
 
 \subsection{Undergraduate}
 Discrete and continuous math modeling \\
 Quantum mechanics  \\ Thermodynamics \\
 Computer programming \\
+Condensed matter physics
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     SKILLS
@@ -134,15 +135,14 @@ Android \textbullet{} MySQL \textbullet{} Node
 \sectionsep
 
 
-\subsection{Software}
-\location{Over 5000 lines:}
-Python \textbullet{} Matlab \textbullet{} Java \\
-Shell \textbullet{} Perl  \textbullet{} HTML \\
-\location{Over 1000 lines:}
-Go \textbullet{}  Javascript \textbullet{} \LaTeX\  \\
-\location{Familiar:}
-C \textbullet{} C++ \textbullet{} CSS \textbullet{} PHP \\
-Android \textbullet{} MySQL \textbullet{} Node
+\subsection{Leadership}
+\textbullet{} Mentored over 15 students in laboratory techniques \\
+\textbullet{} Taught lecture courses and study sections for three classes \\
+\sectionsep
+
+\subsection{Outreach}
+\textbullet{} NSF BOOST mentor for 6-7th grade students\\
+\textbullet{} Guest lecturer at local NCSSM high school\\
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -155,21 +155,7 @@ Android \textbullet{} MySQL \textbullet{} Node
 \hfill
 \begin{minipage}[t]{0.66\textwidth} 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     EXPERIENCE
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Experience}
-\runsubsection{Hypercube Platforms Inc.}
-\descript{| Founder \& Developer  }
-\location{Jan 2013 - Present | Durham, NC}
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
-\begin{tightemize}
-\item Developing novel wireless internal positioning system
-\item Startup funding from Duke University CoLab
-\item Collaboation with Duke Hospital and Duke Office of Technology
-\end{tightemize}
-\sectionsep
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -180,13 +166,34 @@ Android \textbullet{} MySQL \textbullet{} Node
 \runsubsection{Duke University}
 \descript{| Graduate researcher}
 \location{Jan 2010 – Present | Durham, NC}
-Worked with \textbf{\href{http://www.cs.cornell.edu/~ashesh/}{Ashesh Jain}} and \textbf{\href{http://www.cs.cornell.edu/~asaxena/}{Prof Ashutosh Saxena}} to create \textbf{PlanIt}, a tool which  learns from large scale user preference feedback to plan robot trajectories in human environments.  
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item Worked in lab of \textbf{\href{http://smfs.pratt.duke.edu}{Prof. Piotr Marszalek}} and \textbf{\href{http://www.cs.cornell.edu/~asaxena/}{Prof Weitao Yang}} to improve methods for studying DNA and multidomain protein dunfolding and refolding dynamics using single-molecule force-spectroscopy and molecular dynamic simulations. 
+\item Authored over 10 peer-reviewed publications.
+\end{tightemize}
 \sectionsep
 
 \runsubsection{Fred Hutchinson Cancer Res. Ctr.}
 \descript{| Undergraduate researcher}
 \location{Jan 2008 - Jan 2010 | Seattle, WA}
-Led the development of \textbf{QuickTongue}, the first ever breakthrough tongue-controlled game with \textbf{\href{http://conf.ling.cornell.edu/~tilsen/}{Prof Sam Tilsen}} to aid in Linguistics research. 
+\begin{tightemize}
+\item Worked in the lab of \textbf{Weying Zhou} to study mathematical models of diffusion between cooperating organisms in spatially structured environments.
+\end{tightemize}
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EXPERIENCE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Experience}
+\runsubsection{Hypercube Platforms Inc.}
+\descript{| Founder \& Developer  }
+\location{Jan 2013 - Present | Durham, NC}
+\begin{tightemize}
+\item Developing novel wireless internal positioning system
+\item Startup funding from Duke University CoLab
+\item Collaboation with Duke Hospital and Duke Office of Technology
+\end{tightemize}
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
