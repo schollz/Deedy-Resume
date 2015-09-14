@@ -100,49 +100,43 @@ Graduated with Honors \\
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     COURSEWORK
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Coursework}
-\subsection{Graduate}
-Algorithms \\
-Protein design \\
-Statistical Mechanics \\
-Biochemistry \\
-Crystallography \\
-\sectionsep
-
-\subsection{Undergraduate}
-Discrete and continuous math modeling \\
-Quantum mechanics  \\ Thermodynamics \\
-Computer programming \\
-Condensed matter physics
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     SKILLS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Skills}
 \subsection{Programming}
 \location{Over 5000 lines:}
-Python \textbullet{} Matlab \textbullet{} Java \\
-Shell \textbullet{} Perl  \textbullet{} HTML \\
+Python \textbullet{} Matlab \textbullet{} Perl  \textbullet{} Java \\
+Shell \textbullet{}  HTML \\
 \location{Over 1000 lines:}
-Go \textbullet{}  Javascript \textbullet{} \LaTeX\  \\
+Go \textbullet{}  Javascript/Node.js \textbullet{} \LaTeX\ \\
+C \textbullet{}  LabView  \\
 \location{Familiar:}
-C \textbullet{} C++ \textbullet{} CSS \textbullet{} PHP \\
-Android \textbullet{} MySQL \textbullet{} Node
+C++ \textbullet{} CSS \textbullet{} PHP \textbullet{} MySQL \\
+Android \textbullet{} Mathematica\\
+\sectionsep
+
+\subsection{Hardware}
+Circuit design \textbullet{} Prototyping  \\
+EAGLE \textbullet{} Microcontrollers
 \sectionsep
 
 
 \subsection{Leadership}
 \textbullet{} Mentored over 15 students in laboratory techniques \\
-\textbullet{} Taught lecture courses and study sections for three classes \\
+\textbullet{} Taught lecture courses and study sections for three classes at Duke \\
 \sectionsep
 
 \subsection{Outreach}
-\textbullet{} NSF BOOST mentor for 6-7th grade students\\
-\textbullet{} Guest lecturer at local NCSSM high school\\
+\textbullet{}  Volunteer consultant for ASA Datafest 2015\\
+\textbullet{} NSF BOOST mentor for 6-7th grade students (2011-13)\\
+\textbullet{} Educator for integrative local science course (2010-12)\\
+\sectionsep
+
+\subsection{Extracurricular}
+\textbullet{} Github projects starred over 100 times\\
+\textbullet{} Qualified and ran Boston Marathon (2013)\\
+\textbullet{} Developed websites that have cumulated over 500,000 unique users \\
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -164,22 +158,17 @@ Android \textbullet{} MySQL \textbullet{} Node
 
 \section{Research}
 \runsubsection{Duke University}
-\descript{| Graduate researcher}
+\descript{| PhD Research}
 \location{Jan 2010 – Present | Durham, NC}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
 \item Worked in lab of \textbf{\href{http://smfs.pratt.duke.edu}{Prof. Piotr Marszalek}} and \textbf{\href{http://www.cs.cornell.edu/~asaxena/}{Prof Weitao Yang}} to improve methods for studying DNA and multidomain protein dunfolding and refolding dynamics using single-molecule force-spectroscopy and molecular dynamic simulations. 
-\item Authored over 10 peer-reviewed publications.
+\item Authored over 13 peer-reviewed publications.
+\item Designed and built circuits for more efficient Atomic Force Microscope
+\item Designed and coded automation and analysis software for Atomic Force Microscopy
 \end{tightemize}
 \sectionsep
 
-\runsubsection{Fred Hutchinson Cancer Res. Ctr.}
-\descript{| Undergraduate researcher}
-\location{Jan 2008 - Jan 2010 | Seattle, WA}
-\begin{tightemize}
-\item Worked in the lab of \textbf{Weying Zhou} to study mathematical models of diffusion between cooperating organisms in spatially structured environments.
-\end{tightemize}
-\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     EXPERIENCE
@@ -202,14 +191,14 @@ Android \textbullet{} MySQL \textbullet{} Node
 
 \section{Awards} 
 \begin{tabular}{rll}
-2014-2015	     &  	Katherine Stern Dissertation Award \\
+2015-2016     &  	Katherine Stern Dissertation Award \\
+2015	     &  	Travel award for Single Molecule Biophysics Meeting \\
 2014	     &  	 	Biophysical Society Student Research Achievement Award \\
 2013	     &  	Travel award for 27th Symposium of The Protein Society \\
 2012	     &  	Travel award for Pacific Symposium on Biocomputing\\
 2012-2014	     & NSF GRFP award\\
 2010     & Chancellor’s scholarship \\
 2010     &  	James B. Duke Fellowship \\
-2010-2012     &  	Structural Biology Training Grant \\
 \end{tabular}
 \sectionsep
 
