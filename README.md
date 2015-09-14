@@ -9,8 +9,9 @@ It is licensed under the Apache License 2.0.
 ## Compiling
 
 ```bash
-bibtex NAME
-lualatex *xtx
+lualatex resume_v1.xtx
+bibtex resume_v1
+lualatex resume_v1.xtx
 xpdf *pdf
 ```
 
