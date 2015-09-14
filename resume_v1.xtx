@@ -86,7 +86,7 @@
 \subsection{Duke University}
 \descript{PhD in Computational Biology}
 \location{June 2016 | Durham, NC}
-Thesis: Biophysics of proteins and nucleic acids studied by experiment and simulation \\
+Thesis title: Biophysics of proteins and nucleic acids studied by experiment and simulation \\
 \sectionsep
 
 \subsection{University of Washington}
@@ -123,7 +123,7 @@ EAGLE \textbullet{} Microcontrollers
 
 
 \subsection{Leadership}
-\textbullet{} Mentored over 15 students in laboratory techniques \\
+\textbullet{} Mentored more than 15 students in laboratory techniques and tools \\
 \textbullet{} Taught lecture courses and study sections for three classes at Duke \\
 \sectionsep
 
@@ -133,10 +133,10 @@ EAGLE \textbullet{} Microcontrollers
 \textbullet{} Educator for integrative local science course (2010-12)\\
 \sectionsep
 
-\subsection{Extracurricular}
+\subsection{Additional Information}
 \textbullet{} Github projects starred over 100 times\\
 \textbullet{} Qualified and ran Boston Marathon (2013)\\
-\textbullet{} Developed websites that have cumulated over 500,000 unique users \\
+\textbullet{} Developed websites and their content that have cumulated over 500,000 unique users \\
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -162,10 +162,9 @@ EAGLE \textbullet{} Microcontrollers
 \location{Jan 2010 – Present | Durham, NC}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Worked in lab of \textbf{\href{http://smfs.pratt.duke.edu}{Prof. Piotr Marszalek}} and \textbf{\href{http://www.cs.cornell.edu/~asaxena/}{Prof Weitao Yang}} to improve methods for studying DNA and multidomain protein dunfolding and refolding dynamics using single-molecule force-spectroscopy and molecular dynamic simulations. 
-\item Authored over 13 peer-reviewed publications.
-\item Designed and built circuits for more efficient Atomic Force Microscope
-\item Designed and coded automation and analysis software for Atomic Force Microscopy
+\item Authored over 13 peer-reviewed publications on Atomic Force Microscopy (AFM), protein dynamics, DNA elasticity and molecular modelling.
+\item Designed and built circuits for more efficient and stable AFM
+\item Designed and coded automation and analysis software for AFM experiments
 \end{tightemize}
 \sectionsep
 
@@ -175,13 +174,13 @@ EAGLE \textbullet{} Microcontrollers
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Experience}
-\runsubsection{Hypercube Platforms Inc.}
+\runsubsection{Hypercube Platforms}
 \descript{| Founder \& Developer  }
 \location{Jan 2013 - Present | Durham, NC}
 \begin{tightemize}
 \item Developing novel wireless internal positioning system
 \item Startup funding from Duke University CoLab
-\item Collaboation with Duke Hospital and Duke Office of Technology
+\item Collaboration with Duke Hospital and Duke Office of Information and Technology
 \end{tightemize}
 \sectionsep
 
